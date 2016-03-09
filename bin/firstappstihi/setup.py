@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='firstapp',
       version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
-      url='http://www.python.org/sigs/distutils-sig/',
+      description='regonly',
+      author='alt00x8fq',
+      author_email='alt00x8fq@gmail.com',
+      url='http://firstapp-regonly.rhcloud.com/',
       install_requires=['Django>=1.3'],
      )
